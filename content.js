@@ -7,7 +7,7 @@
   const OFFER = {
     title: 'Нужен более подробный разбор?',
     text: 'Свяжитесь со мной лично. Большой чек-лист, полная версия этого теста на 100 утверждений, стоит 990 ₽.',
-    contactUrl: '',
+    contactUrl: 'https://t.me/Salavat_nazarov',
     contactLabel: 'Написать',
   };
 
